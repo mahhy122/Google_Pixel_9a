@@ -1,1 +1,1 @@
-# Google_Pixel_9a
+Google Pixel 9aのアクセサリー用のstlファイルです
